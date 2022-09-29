@@ -188,6 +188,8 @@ nav {
   position: fixed;
   transform-origin: 0% 0%;
   transition: 0.3s linear;
+  background: #ffffff;
+  width: 100px;
 }
 
 .nav__right {
