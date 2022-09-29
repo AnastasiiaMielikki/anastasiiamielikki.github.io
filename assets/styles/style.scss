@@ -172,6 +172,8 @@ nav {
     }
     .submenu {
         display: none;
+        width: 100px;
+        background: #ffffff;
         opacity: 0;
     
         &__item {
